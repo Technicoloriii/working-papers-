@@ -1,0 +1,186 @@
+%%
+%% This is file `./samples/longsample.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% apa7.dtx  (with options: `longsample')
+%% ----------------------------------------------------------------------
+%% 
+%% apa7 - A LaTeX class for formatting documents in compliance with the
+%% American Psychological Association's Publication Manual, 7th edition
+%% 
+%% Copyright (C) 2019 by Daniel A. Weiss <daniel.weiss.led at gmail.com>
+%% 
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License (LPPL), either
+%% version 1.3c of this license or (at your option) any later
+%% version.  The latest version of this license is in the file:
+%% 
+%% http://www.latex-project.org/lppl.txt
+%% 
+%% Users may freely modify these files without permission, as long as the
+%% copyright line and this statement are maintained intact.
+%% 
+%% This work is not endorsed by, affiliated with, or probably even known
+%% by, the American Psychological Association.
+%% 
+%% ----------------------------------------------------------------------
+%% 
+\documentclass[man]{apa7}
+
+\usepackage{lipsum}
+
+\usepackage[american]{babel}
+\usepackage{caption}%
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+\usepackage{lscape}%
+\usepackage{csquotes}%
+\usepackage{subfigure}%
+\usepackage{graphicx}%
+\usepackage{longtable}
+\usepackage{array}%
+\usepackage{multirow}%
+\usepackage{csquotes}
+\usepackage[style=apa,sortcites=true,sorting=nyt,backend=biber]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+\addbibresource{bibliography.bib}
+
+\title{Effect of Grants Restriction on Subnational Governmentals' Revenue Collection Effort---a Kalman Filter Application}
+\shorttitle{Effect of Grants Restriction on Subnational Governmentals' Revenue Collection Effort---a Kalman Filter Application}
+
+\author{Yan Hao}
+
+\affiliation{Pennsylvania State University\\School of Public Affairs}
+
+\leftheader{Weiss}
+
+\abstract{Most articles on the impact of intergovernmental transfers on local government tax collection efforts focus on the role of the absolute amount of transfers, while the role of attached constraints is less discussed. This article has three main innovations. First, it provides a theoretical analysis framework for the impact of transfer constraints on local tax efforts. Second, it uses Kalman filtering to overcome the difficulty in measuring tax efforts. Finally, it provides panel data empirical analysis of the effect of  constraints on intergovernmental transfer between the U.S. federal and state governments.} %chatgpt checked
+
+\keywords{intergovernmental transfer, tax revenue effort, kalman filter, panel data study }
+
+\authornote{
+   \addORCIDlink{Yan Hao}{0009-0000-6310-3988}
+
+  Correspondence concerning this article should be addressed to Yan Hao, School of Public Affairs, Public Administration, Pennsylvania State University Harrisburg, 777 W Harrisburg Pike, Middletown, PA
+  17057.  E-mail: yjh5219@psu.edu}
+
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+After receiving intergovernmental transfers from the national government, subnational governments should respond by adjusting their fiscal behavior. The impact of intergovernmental transfers on the behavior of subnational governments has been extensively studied by researchers in public finance. Most of these investigations can be categorized into studies on spending and revenue collection behavior. In this paper, I will specifically explore the influence of intergovernmental transfers on the revenue collection of subnational governments, with a focus on their reaction to tax collection efforts.
+
+The concept of tax revenue effort is somewhat obscured. In most of countries, administrative institutions are not authorized to arbitrarily change the legal tax rate, while intergovernmental transfers fluctuate frequently on a yearly basis. For instance, in the United States, the Senate and House of Representatives are responsible for altering the legal tax rate. This disparity implies that the administrative branch may adjust tax collection efforts to manage the actual tax burden. Subnational governments have various methods to modify the actual tax burden without changing the legal tax rate, such as tax deductions and relief measures. All these modifications to tax collection that impact the actual tax rate can be collectively termed as tax collection effort.
+
+Empirical evidence regarding the impact of intergovernmental transfers on tax collection efforts is inconclusive. Some argue that intergovernmental transfers narrow income deficits, thereby reducing tax collection efforts, while other evidence suggests the opposite effect.
+
+Two potential reasons may account for this lack of consensus. First, previous investigations lack formal theoretical support, leading scholars to find evidence supporting different conclusions without a clear understanding of the underlying mechanisms causing these effects. Another challenge is the unobservability of tax collection efforts. The inaccurate measurement of tax collection efforts may contribute to discrepancies. In this paper, I summarize existing literature, establish an analytical framework to infer mechanisms, and employ the Kalman filter to address the measurement inaccuracies of tax collection efforts. Finally, a panel data analysis is conducted to validate the theoretical inferences.
+
+\section{Literature Review}
+Inherent to the nature of general transfer is that transfer would lead to tax fungibility effect, which means transfer would substitute local governments' revenue collection efforts. This phenomenon is also referred to as the crowding out effect on tax effort and has been supported by bunch of evidences \parencite{inman1988federal,peterson1997decentralization,litvack1998rethinking}. Empirical evidence in both developed and developing countries has further confirmed this theoretical inference. For example, Nicholson \cite{nicholson2008fiscal} discovered the fungibility effect of intergovernmental transfer on tax effort at the state level in Germany and the United States.  \textcite{2002A}, \textcite{aragon2005intergovernmental}, \textcite{panda2009central}, \textcite{mogues2012external}, and \textcite{bravo2013income} found similar evidence in developing countries such as Peru, India, Ghana, and Chile. In short, the fungibility of intergovernmental transfer on tax revenue could lead to a decrease in the efforts of governments to collect tax revenue once they receive sufficient funds from transfer payments.
+
+The fungibility effect seems natural when the range of study is constrained in one specific jurisdictions. Once multiple jurisdictions and horizontal competition are introduced into the consideration, one opposite impact also seems to be reasonable. Some theoretical research contend that the local jurisdictions should be motivated to lower the tax burden since they are facing the tax competition. The lower tax burden may attract capital, citizen or enterprise into the area, thus the local governments may actively give up the tax benefits they could have collected. In another word, the tax competition may encourage the local governments to expand the tax base rather than increase the tax effort. The revenue from intergovernmental transfer may neutralize this subjective intention, thus the tax effort would be positively affected.
+
+\textcite{2010Theefficiency}, \textcite{2006Theincentive} describe this guess in their analysis of fiscal equalization. \textcite{2011Intergovernmental}
+found some empirical evidence in China. Compared to the study on fungibility, the investigation on this effect are seldom systemically investigated in theoretical level, limited literature are empirical analysis.
+
+In the investigation related to tax collection effort, another common challenge is the measurement of the tax collection effort since it's unobservable. There are two common methods for former researchers to overcome this issue. One is the average tax ratio method and another is potential tax revenue method.
+
+The average tax ratio is to find an observable variable to express the tax collection effort and substitute the real tax effort \parencite{1981Taxation,1996Revenue1}. However, the defect of this method is obvious. The usefulness of this method depends on the quality of the substitute variable. For example, \textcite{lv2008taxeffort} use the actual tax burden of the companies in China as the proxy of tax effort, however no one can conclude that the actual tax burden is a good proxy. \textcite{doi:10.1080/13504850500425345} also points out that the average tax ratio cannot control all other factors affecting the proxy variable.
+
+The potential tax revenue method is to estimate or predict the potential tax revenue based on the variables affecting tax revenue. This way to predict the tax revenue is called tax handle method \parencite{1968How}. Next step is to compare the actual tax revenue with the predicted value. For example, \Textcite{2019AAAVVV} use the auto-regression model to estimate the tax effort in european countries. Such method is used in both developing and developed countries\parencite{2002The,2007Determinants,201703}. However the potential tax revenue method is a biased estimator according to \textcite{doi:10.1080/13504850500425345}'s proof steps. To overcome the deficits of these two methods, \textcite{doi:10.1080/13504850500425345} points out that the Kalman filter is the best estimator to estimate the unobservable tax collection effort. He also proved the superiority of the Kalman filter estimator through a Monte Carlo process.
+
+After the adoption of the kalman filter, some most recent work on estimating the tax collection effort gets better estimation of the tax collection effort. \Textcite{2010MEASURING} updated the estimation of tax collection effort by a kalman fiter with the data of Barbados. With better estimation,  the understanding about how to narrow fiscal deficiency in Barbados got further progress.
+
+To synthesize the literature, two potential gaps arise. Firstly, the focus of is mainly on general transfers, with little emphasis on categorical transfers.  Even in some literatures that try to discuss the effect of strings attached on the grants and points out the potential effect of the strings, they do not conduct a rigorous theoretical discussion, thus they got different conclusions \parencite{gramlich1997intergovernmental,chubb1985political,nicholson2004goal}. \textcite{nicholson2008fiscal} did a fixed regression and assert that the grants-in-aid exert downward pressure on state tax effort. \textcite{dash2013intergovernmental}get opposite evidence and find stimulative effect on tax collect efficiency. \textcite{2016The} research on the effect of categorical grants in Morocco failed to yield a conclusive result, which they attribute to political influence, leaving ample ro om for local governments to negotiate. One natural question is: unlike general transfers, when central government confine the transfer to a specific area, what is the possible impact on local governments' tax collection effort?
+
+Besides, to overcome the unobservability of the tax collection effort, public financial researchers adopt kalman filter. But this method are commonly used as an estimator to measure the actual tax collection effort of national economy while is seldom used to measure tax collection effort of the subnational economy \parencite{W2007Measuring}. So far the kalman filter has not been used to push the understanding the relationship between intergovernmental transfer and tax collection effort.
+
+To address the identified gaps in the literature, I set up a one-period Ramsey problem in this study to analyze the tax collection behavior of subnational governments when received categorical transfer.  To further validate the theoretical inferences, empirical investigation was conducted. Specifically, I get better quality data on tax collection effort of state governments in America and then conducted a panel data analysis on the relationship between  restrictions and tax collection effort. Compared to the research in this area, my investigation get implication on both general transfer and categorical transfer. The utilization of both qualitative and quantitative methods in this study allowed for a solid understanding of the research topic.
+
+
+\section{Question Description}
+
+Specifically, I try to solve 3 problems in this paper.
+
+\begin{itemize}
+  \item \textbf{Setting up a theoretical framework to get the affecting mechanism}
+\end{itemize}
+
+
+
+\begin{itemize}
+  \item \textbf{Getting a better estimation of the tax collection effort through the Kalman filter process.}
+\end{itemize}
+
+
+\begin{itemize}
+  \item \textbf{What is the actual relationship between restriction on the intergovernmental transfer and tax collection effort?}
+\end{itemize}
+
+\section{Sample and Variables}
+
+
+
+\section{Regression Results and Analysis}
+
+
+\section{Review and Summary}
+
+
+
+\printbibliography
+
+\appendix
+\section{Data}
+
+
+
+\end{document}
+
+%% 
+%% Copyright (C) 2019 by Daniel A. Weiss <daniel.weiss.led at gmail.com>
+%% 
+%% This work may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License (LPPL), either
+%% version 1.3c of this license or (at your option) any later
+%% version.  The latest version of this license is in the file:
+%% 
+%% http://www.latex-project.org/lppl.txt
+%% 
+%% Users may freely modify these files without permission, as long as the
+%% copyright line and this statement are maintained intact.
+%% 
+%% This work is not endorsed by, affiliated with, or probably even known
+%% by, the American Psychological Association.
+%% 
+%% This work is "maintained" (as per LPPL maintenance status) by
+%% Daniel A. Weiss.
+%% 
+%% This work consists of the file  apa7.dtx
+%% and the derived files           apa7.ins,
+%%                                 apa7.cls,
+%%                                 apa7.pdf,
+%%                                 README,
+%%                                 APA7american.txt,
+%%                                 APA7british.txt,
+%%                                 APA7dutch.txt,
+%%                                 APA7english.txt,
+%%                                 APA7german.txt,
+%%                                 APA7ngerman.txt,
+%%                                 APA7greek.txt,
+%%                                 APA7czech.txt,
+%%                                 APA7turkish.txt,
+%%                                 APA7endfloat.cfg,
+%%                                 Figure1.pdf,
+%%                                 shortsample.tex,
+%%                                 longsample.tex, and
+%%                                 bibliography.bib.
+%% 
+%%
+%% End of file `./samples/longsample.tex'.

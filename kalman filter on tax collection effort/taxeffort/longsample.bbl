@@ -1,0 +1,1919 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{aragon2005intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d7fa78414f799f628252940e725bd370}{%
+           family={Aragón},
+           familyi={A\bibinitperiod},
+           given={Fernando\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33c99eb08958832690c2a8e0a5729013}{%
+           family={Gayoso},
+           familyi={G\bibinitperiod},
+           given={Vilma\bibnamedelima J},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{fullhash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{bibnamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authorbibnamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authornamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authorfullhash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 773666}
+      \field{title}{Intergovernmental transfers and fiscal effort in Peruvian local governments}
+      \field{year}{2005}
+    \endentry
+    \entry{2002A}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8862731f0c749cc00bf10d526a08bc2f}{%
+           family={Baretti},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5afc1c7eda1f98f6a2b26e1fbabd6eb6}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=788d89b2745b2fd18f898331a307bf49}{%
+           family={Lichtblau},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{535c8cfdbe4e6bdfdf69b6a79d993eb0}
+      \strng{fullhash}{109c47255dc7eed320c323246f953685}
+      \strng{bibnamehash}{109c47255dc7eed320c323246f953685}
+      \strng{authorbibnamehash}{109c47255dc7eed320c323246f953685}
+      \strng{authornamehash}{535c8cfdbe4e6bdfdf69b6a79d993eb0}
+      \strng{authorfullhash}{109c47255dc7eed320c323246f953685}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Tax and Public Finance}
+      \field{number}{6}
+      \field{title}{A Tax on Tax Revenue: The Incentive Effects of Equalizing Transfers: Evidence from Germany}
+      \field{volume}{9}
+      \field{year}{2002}
+      \field{pages}{631\bibrangedash 649}
+      \range{pages}{19}
+    \endentry
+    \entry{bravo2013income}{report}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8f543fd82b297633a22144564f1296c}{%
+           family={Bravo},
+           familyi={B\bibinitperiod},
+           given={Javiera},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{fullhash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{bibnamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authorbibnamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authornamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authorfullhash}{0eef3e37091b9facecb054f262c1357c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Income Effect of Unconditional Grants: A Reduction in the Collection Effort of Municipalities}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{2016The}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=03edd870aa9ad7ba40dd09ebea2e4b86}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={Jean\bibnamedelima Franois},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e149137f712c7289d35f63dfaff2bf7d}{%
+           family={Khdari},
+           familyi={K\bibinitperiod},
+           given={Maria\bibnamedelima El},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{fullhash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{bibnamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authorbibnamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authornamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authorfullhash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Working Papers}
+      \field{title}{The Incentive Effects of Conditional and Unconditional Transfers on Local Own Revenue Generation: Empirical Evidence from Moroccan Municipalities}
+      \field{year}{2016}
+    \endentry
+    \entry{2010Theefficiency}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=028c007244303625d06ed2be67a009e3}{%
+           family={Bucovetsky},
+           familyi={B\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=204cf2262016ce5c57bc5ab577af1530}{%
+           family={Smart},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{fullhash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{bibnamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authorbibnamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authornamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authorfullhash}{e0593a03a4115cec1326496038f11ccd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economic Theory}
+      \field{number}{1}
+      \field{title}{The Efficiency Consequences of Local Revenue Equalization: Tax Competition and Tax Distortions}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{119\bibrangedash 144}
+      \range{pages}{26}
+    \endentry
+    \entry{2006Theincentive}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e4e4b6d8562404fa668410228c13f3d}{%
+           family={Buettner},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{fullhash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{bibnamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authorbibnamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authornamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authorfullhash}{0e4e4b6d8562404fa668410228c13f3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{number}{3}
+      \field{title}{The Incentive Effect of Fiscal Equalization Transfers on Tax Policy}
+      \field{volume}{90}
+      \field{year}{2006}
+      \field{pages}{477\bibrangedash 497}
+      \range{pages}{21}
+    \endentry
+    \entry{chubb1985political}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94d92ad49c170ff2282701880fc73bda}{%
+           family={Chubb},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{fullhash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{bibnamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authorbibnamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authornamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authorfullhash}{94d92ad49c170ff2282701880fc73bda}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{The political economy of federalism}
+      \field{volume}{79}
+      \field{year}{1985}
+      \field{pages}{994\bibrangedash 1015}
+      \range{pages}{22}
+    \endentry
+    \entry{2019AAAVVV}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c10932f4e8d61ab7dc8fbaff071d2df0}{%
+           family={Dalamagas},
+           familyi={D\bibinitperiod},
+           given={Basil},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fee5f2f4532cdcdebbf8f2b99067f5c7}{%
+           family={Palaios},
+           familyi={P\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dbaa9e2cbafbaebceb3d95f2418dcc5}{%
+           family={Tantos},
+           familyi={T\bibinitperiod},
+           given={Stefanos},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dee2567ae494d05317b284801930054}{%
+           family={Fendel},
+           familyi={F\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54f47063ee7154f7cdb03bed4a7bc0bc}
+      \strng{fullhash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{bibnamehash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{authorbibnamehash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{authornamehash}{54f47063ee7154f7cdb03bed4a7bc0bc}
+      \strng{authorfullhash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economies}
+      \field{number}{3}
+      \field{title}{A New Approach to Measuring Tax Effort}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{77}
+      \range{pages}{1}
+    \endentry
+    \entry{dash2013intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3116c72ef80bc90aceeeca5463707140}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Bharatee\bibnamedelima Bhusana},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c30011dcbae8094475d61aff604fa1d9}{%
+           family={Raja},
+           familyi={R\bibinitperiod},
+           given={Angara\bibnamedelima V},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{fullhash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{bibnamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authorbibnamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authornamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authorfullhash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Budgeting \& Finance}
+      \field{number}{2}
+      \field{title}{Intergovernmental transfers and tax collection in India: Does the composition of transfers matter?}
+      \field{volume}{33}
+      \field{year}{2013}
+      \field{pages}{93\bibrangedash 116}
+      \range{pages}{24}
+    \endentry
+    \entry{2002The}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5434c61a92069f9ed7ae2a797642f0d9}{%
+           family={Eltony},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi Nagy},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{fullhash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{bibnamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authorbibnamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authornamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authorfullhash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{API-Working Paper Series}
+      \field{title}{The Determinants of Tax Effort in Arab Countries}
+      \field{year}{2002}
+    \endentry
+    \entry{gramlich1997intergovernmental}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03407cfb003dd1e9a5087569689f533b}{%
+           family={Gramlich},
+           familyi={G\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{fullhash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{bibnamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authorbibnamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authornamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authorfullhash}{03407cfb003dd1e9a5087569689f533b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Financing federal systems}
+      \field{title}{Intergovernmental grants: A review of the empirical literature}
+      \field{year}{1997}
+      \field{pages}{106\bibrangedash 126}
+      \range{pages}{21}
+    \endentry
+    \entry{2007Determinants}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de67f981ac1852bbd514b400c72b134c}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Abhijit\bibnamedelima Sen},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{fullhash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{bibnamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authorbibnamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authornamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authorfullhash}{de67f981ac1852bbd514b400c72b134c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IMF Working Papers}
+      \field{number}{184}
+      \field{title}{Determinants of Tax Revenue Efforts in Developing Countries}
+      \field{volume}{07}
+      \field{year}{2007}
+    \endentry
+    \entry{inman1988federal}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67a91790fe3b27fe4f51468546e7b298}{%
+           family={Inman},
+           familyi={I\bibinitperiod},
+           given={Robert\bibnamedelima P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{fullhash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{bibnamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authorbibnamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authornamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authorfullhash}{67a91790fe3b27fe4f51468546e7b298}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fiscal federalism: Quantitative studies}
+      \field{title}{Federal Assistance and Local Services in the United States: The Evolution of a New}
+      \field{year}{1988}
+      \field{pages}{33\bibrangedash 78}
+      \range{pages}{46}
+    \endentry
+    \entry{doi:10.1080/13504850500425345}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df86303b54e48fc3636a410bf5d9d7f5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sangheon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{fullhash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{bibnamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authorbibnamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authornamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authorfullhash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Economics Letters}
+      \field{number}{7}
+      \field{title}{A more accurate measurement of tax effort}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{539\bibrangedash 543}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1080/13504850500425345
+      \endverb
+    \endentry
+    \entry{litvack1998rethinking}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3eebf31e603dc9e943afcc2f83eafa89}{%
+           family={Litvack},
+           familyi={L\bibinitperiod},
+           given={Jennie\bibnamedelima Ilene},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05c6ef4a735101345f60f36e7a31739a}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Junaid},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceba6f702a86fc981d022d3f01afd511}{%
+           family={Bird},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima Miller},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {World Bank Publications}%
+      }
+      \strng{namehash}{28c2e7d5e33a9645090f411f142dd396}
+      \strng{fullhash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{bibnamehash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{authorbibnamehash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{authornamehash}{28c2e7d5e33a9645090f411f142dd396}
+      \strng{authorfullhash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rethinking decentralization in developing countries}
+      \field{year}{1998}
+    \endentry
+    \entry{2011Intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1060df353141caeea15b67e6798e01cd}{%
+           family={Liusupa/Supsup*/Sup},
+           familyi={L\bibinitperiod},
+           given={Yongzheng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae051644ebb5f9a9bbe1b801460d97d5}{%
+           family={Zhaosupb/Sup},
+           familyi={Z\bibinitperiod},
+           given={Jianmei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{fullhash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{bibnamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authorbibnamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authornamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authorfullhash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Policy Reform}
+      \field{number}{4}
+      \field{title}{Intergovernmental fiscal transfers and local tax efforts: evidence from provinces in China}
+      \field{volume}{14}
+      \field{year}{2011}
+      \field{pages}{p.295\bibrangedash 300}
+      \range{pages}{-1}
+    \endentry
+    \entry{1996Revenue1}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=842c0584f340ca24a77b421d3e8a1cd7}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Huaping},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e3b72a7c93be31aaf82b08655f01aa9}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{fullhash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{bibnamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authorbibnamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authornamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authorfullhash}{108c070ee20c85bb9169a20e51cdb97b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Budgeting Accounting and Financial Management}
+      \field{number}{1}
+      \field{title}{Revenue Effort of Local Governments: Determinants, Impacts, and Policy Implications}
+      \field{volume}{8}
+      \field{year}{1996}
+      \field{pages}{47\bibrangedash 68}
+      \range{pages}{22}
+    \endentry
+    \entry{lv2008taxeffort}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1917a45b224cb249db154916169f981e}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Bingyang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27255a181b401abe652d32ec1fd680b1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kaiqiang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{fullhash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{bibnamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authorbibnamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authornamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authorfullhash}{32d86fa57f68117eb7707c71c911441a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Economy}
+      \field{number}{7}
+      \field{title}{Fiscal Transfers and Tax Efforts: The Impact of Government Preferences}
+      \field{year}{2018}
+      \field{pages}{24}
+      \range{pages}{1}
+    \endentry
+    \entry{1968How}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5274b797bc1ede66871f40d90cf36490}{%
+           family={Martinson},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{fullhash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{bibnamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authorbibnamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authornamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authorfullhash}{5274b797bc1ede66871f40d90cf36490}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dental Management}
+      \field{number}{2}
+      \field{title}{How to handle that tax estimate}
+      \field{volume}{8}
+      \field{year}{1968}
+      \field{pages}{45}
+      \range{pages}{1}
+    \endentry
+    \entry{mogues2012external}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=85178de5c8553b05da88de5b5dfff58e}{%
+           family={Mogues},
+           familyi={M\bibinitperiod},
+           given={Tewodaj},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccf5e94213c660d6bd1936a75293f2f0}{%
+           family={Benin},
+           familyi={B\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{fullhash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{bibnamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authorbibnamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authornamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authorfullhash}{07e1b3cb18540225fcc173f9262e37bc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Development}
+      \field{number}{5}
+      \field{title}{Do external grants to district governments discourage own revenue generation? A look at local public finance dynamics in Ghana}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{1054\bibrangedash 1067}
+      \range{pages}{14}
+    \endentry
+    \entry{nicholson2004goal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81515a969f5b82dbdb29fa0355ceec39}{%
+           family={Nicholson-Crotty},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{fullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{bibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorbibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authornamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorfullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{number}{1}
+      \field{title}{Goal conflict and fund diversion in federal grants to the states}
+      \field{volume}{48}
+      \field{year}{2004}
+      \field{pages}{110\bibrangedash 122}
+      \range{pages}{13}
+    \endentry
+    \entry{nicholson2008fiscal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81515a969f5b82dbdb29fa0355ceec39}{%
+           family={Nicholson-Crotty},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{fullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{bibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorbibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authornamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorfullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{State Politics \& Policy Quarterly}
+      \field{number}{2}
+      \field{title}{Fiscal federalism and tax effort in the US states}
+      \field{volume}{8}
+      \field{year}{2008}
+      \field{pages}{109\bibrangedash 126}
+      \range{pages}{18}
+    \endentry
+    \entry{panda2009central}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b69fc70240ef3cdcda3466a707e4925}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Prasant\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage India: New Delhi, India}%
+      }
+      \strng{namehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{fullhash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{bibnamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authorbibnamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authornamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authorfullhash}{6b69fc70240ef3cdcda3466a707e4925}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Margin: The Journal of Applied Economic Research}
+      \field{number}{3}
+      \field{title}{Central fiscal transfers and states’ own-revenue efforts in India: panel data models}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{pages}{223\bibrangedash 242}
+      \range{pages}{20}
+    \endentry
+    \entry{peterson1997decentralization}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {World Bank Publications}%
+      }
+      \strng{namehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{fullhash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{bibnamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authorbibnamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authornamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authorfullhash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralization in Latin America: learning through experience}
+      \field{year}{1997}
+    \endentry
+    \entry{201703}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b9a75fca0722a2f3113a5f39d9e3e20}{%
+           family={Piancastelli},
+           familyi={P\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{fullhash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{bibnamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authorbibnamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authornamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authorfullhash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{03 measuring the tax effort of developed and developing countries. cross country - panel data analysis -1985/95}
+      \field{year}{2017}
+    \endentry
+    \entry{1981Taxation}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=af6dd0f359dd409c105be07104ce3746}{%
+           family={Tanzi},
+           familyi={T\bibinitperiod},
+           given={Mr.\bibnamedelimi Vito},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d42a4f25c1a529fd0a59d82ce58fe1a4}{%
+           family={Yücelik},
+           familyi={Y\bibinitperiod},
+           given={M.\bibnamedelimi Zühtü},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d598c6e85b3212f20e76cedc32572cf}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Mr.\bibnamedelimi Peter\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1a9218f8b24a5518d2fe2bb0d1edb4}{%
+           family={Aguirre},
+           familyi={A\bibinitperiod},
+           given={Mr.\bibnamedelimi Carlos\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f2f019de1e1fe41e06f27959b3a5e70}
+      \strng{fullhash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{bibnamehash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{authorbibnamehash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{authornamehash}{0f2f019de1e1fe41e06f27959b3a5e70}
+      \strng{authorfullhash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IMF Occasional Papers}
+      \field{title}{Taxation in Sub-Saharan Africa}
+      \field{year}{1981}
+    \endentry
+    \entry{2010MEASURING}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4053d084c6dae52a752cb38082bc43f0}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Chrystol},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ba55130f41c37b18fbfb6da18aee9a1}{%
+           family={Maynard},
+           familyi={M\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{fullhash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{bibnamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authorbibnamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authornamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authorfullhash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MEASURING TAX EFFORT FOR A SMALL OPEN ECONOMY: THE CASE OF BARBADOS}
+      \field{year}{2010}
+    \endentry
+    \entry{W2007Measuring}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61e9c06ea9a85a5088a499df6458d276}{%
+           family={W.},
+           familyi={W\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9ece18c950afbfa6b0fdbfa4ff731d3}{%
+           family={T.},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f651f8b3a6684a8e7aa620edeaaf2548}{%
+           family={Newlyn},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{08f1e32de4c8bcd7d0a73482da915054}
+      \strng{fullhash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{bibnamehash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{authorbibnamehash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{authornamehash}{08f1e32de4c8bcd7d0a73482da915054}
+      \strng{authorfullhash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Development Studies}
+      \field{title}{Measuring tax effort in developing countries}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{aragon2005intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d7fa78414f799f628252940e725bd370}{%
+           family={Aragón},
+           familyi={A\bibinitperiod},
+           given={Fernando\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33c99eb08958832690c2a8e0a5729013}{%
+           family={Gayoso},
+           familyi={G\bibinitperiod},
+           given={Vilma\bibnamedelima J},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{fullhash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{bibnamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authorbibnamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authornamehash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \strng{authorfullhash}{5c201a99f2dfa35adef4f175dfb8ca47}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Available at SSRN 773666}
+      \field{title}{Intergovernmental transfers and fiscal effort in Peruvian local governments}
+      \field{year}{2005}
+    \endentry
+    \entry{2002A}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8862731f0c749cc00bf10d526a08bc2f}{%
+           family={Baretti},
+           familyi={B\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5afc1c7eda1f98f6a2b26e1fbabd6eb6}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=788d89b2745b2fd18f898331a307bf49}{%
+           family={Lichtblau},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{535c8cfdbe4e6bdfdf69b6a79d993eb0}
+      \strng{fullhash}{109c47255dc7eed320c323246f953685}
+      \strng{bibnamehash}{109c47255dc7eed320c323246f953685}
+      \strng{authorbibnamehash}{109c47255dc7eed320c323246f953685}
+      \strng{authornamehash}{535c8cfdbe4e6bdfdf69b6a79d993eb0}
+      \strng{authorfullhash}{109c47255dc7eed320c323246f953685}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Tax and Public Finance}
+      \field{number}{6}
+      \field{title}{A Tax on Tax Revenue: The Incentive Effects of Equalizing Transfers: Evidence from Germany}
+      \field{volume}{9}
+      \field{year}{2002}
+      \field{pages}{631\bibrangedash 649}
+      \range{pages}{19}
+    \endentry
+    \entry{bravo2013income}{report}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a8f543fd82b297633a22144564f1296c}{%
+           family={Bravo},
+           familyi={B\bibinitperiod},
+           given={Javiera},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{fullhash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{bibnamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authorbibnamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authornamehash}{0eef3e37091b9facecb054f262c1357c}
+      \strng{authorfullhash}{0eef3e37091b9facecb054f262c1357c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Income Effect of Unconditional Grants: A Reduction in the Collection Effort of Municipalities}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+    \entry{2016The}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=03edd870aa9ad7ba40dd09ebea2e4b86}{%
+           family={Brun},
+           familyi={B\bibinitperiod},
+           given={Jean\bibnamedelima Franois},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e149137f712c7289d35f63dfaff2bf7d}{%
+           family={Khdari},
+           familyi={K\bibinitperiod},
+           given={Maria\bibnamedelima El},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{fullhash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{bibnamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authorbibnamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authornamehash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \strng{authorfullhash}{6da2bc47134a2bd62bc8cf89c62937f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Working Papers}
+      \field{title}{The Incentive Effects of Conditional and Unconditional Transfers on Local Own Revenue Generation: Empirical Evidence from Moroccan Municipalities}
+      \field{year}{2016}
+    \endentry
+    \entry{2010Theefficiency}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=028c007244303625d06ed2be67a009e3}{%
+           family={Bucovetsky},
+           familyi={B\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=204cf2262016ce5c57bc5ab577af1530}{%
+           family={Smart},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{fullhash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{bibnamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authorbibnamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authornamehash}{e0593a03a4115cec1326496038f11ccd}
+      \strng{authorfullhash}{e0593a03a4115cec1326496038f11ccd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economic Theory}
+      \field{number}{1}
+      \field{title}{The Efficiency Consequences of Local Revenue Equalization: Tax Competition and Tax Distortions}
+      \field{volume}{8}
+      \field{year}{2010}
+      \field{pages}{119\bibrangedash 144}
+      \range{pages}{26}
+    \endentry
+    \entry{2006Theincentive}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0e4e4b6d8562404fa668410228c13f3d}{%
+           family={Buettner},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{fullhash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{bibnamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authorbibnamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authornamehash}{0e4e4b6d8562404fa668410228c13f3d}
+      \strng{authorfullhash}{0e4e4b6d8562404fa668410228c13f3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{number}{3}
+      \field{title}{The Incentive Effect of Fiscal Equalization Transfers on Tax Policy}
+      \field{volume}{90}
+      \field{year}{2006}
+      \field{pages}{477\bibrangedash 497}
+      \range{pages}{21}
+    \endentry
+    \entry{chubb1985political}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=94d92ad49c170ff2282701880fc73bda}{%
+           family={Chubb},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{fullhash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{bibnamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authorbibnamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authornamehash}{94d92ad49c170ff2282701880fc73bda}
+      \strng{authorfullhash}{94d92ad49c170ff2282701880fc73bda}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Political Science Review}
+      \field{number}{4}
+      \field{title}{The political economy of federalism}
+      \field{volume}{79}
+      \field{year}{1985}
+      \field{pages}{994\bibrangedash 1015}
+      \range{pages}{22}
+    \endentry
+    \entry{2019AAAVVV}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c10932f4e8d61ab7dc8fbaff071d2df0}{%
+           family={Dalamagas},
+           familyi={D\bibinitperiod},
+           given={Basil},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fee5f2f4532cdcdebbf8f2b99067f5c7}{%
+           family={Palaios},
+           familyi={P\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dbaa9e2cbafbaebceb3d95f2418dcc5}{%
+           family={Tantos},
+           familyi={T\bibinitperiod},
+           given={Stefanos},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dee2567ae494d05317b284801930054}{%
+           family={Fendel},
+           familyi={F\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54f47063ee7154f7cdb03bed4a7bc0bc}
+      \strng{fullhash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{bibnamehash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{authorbibnamehash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \strng{authornamehash}{54f47063ee7154f7cdb03bed4a7bc0bc}
+      \strng{authorfullhash}{4e1cf29f3ecdb4a9b002331995ab1646}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economies}
+      \field{number}{3}
+      \field{title}{A New Approach to Measuring Tax Effort}
+      \field{volume}{7}
+      \field{year}{2019}
+      \field{pages}{77}
+      \range{pages}{1}
+    \endentry
+    \entry{dash2013intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3116c72ef80bc90aceeeca5463707140}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Bharatee\bibnamedelima Bhusana},
+           giveni={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c30011dcbae8094475d61aff604fa1d9}{%
+           family={Raja},
+           familyi={R\bibinitperiod},
+           given={Angara\bibnamedelima V},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{fullhash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{bibnamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authorbibnamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authornamehash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \strng{authorfullhash}{643ebb684b5d91a40efbd6a81fe81d67}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Public Budgeting \& Finance}
+      \field{number}{2}
+      \field{title}{Intergovernmental transfers and tax collection in India: Does the composition of transfers matter?}
+      \field{volume}{33}
+      \field{year}{2013}
+      \field{pages}{93\bibrangedash 116}
+      \range{pages}{24}
+    \endentry
+    \entry{2002The}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5434c61a92069f9ed7ae2a797642f0d9}{%
+           family={Eltony},
+           familyi={E\bibinitperiod},
+           given={M.\bibnamedelimi Nagy},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{fullhash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{bibnamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authorbibnamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authornamehash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \strng{authorfullhash}{5434c61a92069f9ed7ae2a797642f0d9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{API-Working Paper Series}
+      \field{title}{The Determinants of Tax Effort in Arab Countries}
+      \field{year}{2002}
+    \endentry
+    \entry{gramlich1997intergovernmental}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03407cfb003dd1e9a5087569689f533b}{%
+           family={Gramlich},
+           familyi={G\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar Publishing}%
+      }
+      \strng{namehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{fullhash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{bibnamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authorbibnamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authornamehash}{03407cfb003dd1e9a5087569689f533b}
+      \strng{authorfullhash}{03407cfb003dd1e9a5087569689f533b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Financing federal systems}
+      \field{title}{Intergovernmental grants: A review of the empirical literature}
+      \field{year}{1997}
+      \field{pages}{106\bibrangedash 126}
+      \range{pages}{21}
+    \endentry
+    \entry{2007Determinants}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de67f981ac1852bbd514b400c72b134c}{%
+           family={Gupta},
+           familyi={G\bibinitperiod},
+           given={Abhijit\bibnamedelima Sen},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{fullhash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{bibnamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authorbibnamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authornamehash}{de67f981ac1852bbd514b400c72b134c}
+      \strng{authorfullhash}{de67f981ac1852bbd514b400c72b134c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IMF Working Papers}
+      \field{number}{184}
+      \field{title}{Determinants of Tax Revenue Efforts in Developing Countries}
+      \field{volume}{07}
+      \field{year}{2007}
+    \endentry
+    \entry{inman1988federal}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=67a91790fe3b27fe4f51468546e7b298}{%
+           family={Inman},
+           familyi={I\bibinitperiod},
+           given={Robert\bibnamedelima P},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{fullhash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{bibnamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authorbibnamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authornamehash}{67a91790fe3b27fe4f51468546e7b298}
+      \strng{authorfullhash}{67a91790fe3b27fe4f51468546e7b298}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Fiscal federalism: Quantitative studies}
+      \field{title}{Federal Assistance and Local Services in the United States: The Evolution of a New}
+      \field{year}{1988}
+      \field{pages}{33\bibrangedash 78}
+      \range{pages}{46}
+    \endentry
+    \entry{doi:10.1080/13504850500425345}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df86303b54e48fc3636a410bf5d9d7f5}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sangheon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{fullhash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{bibnamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authorbibnamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authornamehash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \strng{authorfullhash}{df86303b54e48fc3636a410bf5d9d7f5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Economics Letters}
+      \field{number}{7}
+      \field{title}{A more accurate measurement of tax effort}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{539\bibrangedash 543}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1080/13504850500425345
+      \endverb
+    \endentry
+    \entry{litvack1998rethinking}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3eebf31e603dc9e943afcc2f83eafa89}{%
+           family={Litvack},
+           familyi={L\bibinitperiod},
+           given={Jennie\bibnamedelima Ilene},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05c6ef4a735101345f60f36e7a31739a}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Junaid},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ceba6f702a86fc981d022d3f01afd511}{%
+           family={Bird},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima Miller},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {World Bank Publications}%
+      }
+      \strng{namehash}{28c2e7d5e33a9645090f411f142dd396}
+      \strng{fullhash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{bibnamehash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{authorbibnamehash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \strng{authornamehash}{28c2e7d5e33a9645090f411f142dd396}
+      \strng{authorfullhash}{4e7d36126ffa5d2456139d60e5c68d13}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rethinking decentralization in developing countries}
+      \field{year}{1998}
+    \endentry
+    \entry{2011Intergovernmental}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1060df353141caeea15b67e6798e01cd}{%
+           family={Liusupa/Supsup*/Sup},
+           familyi={L\bibinitperiod},
+           given={Yongzheng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae051644ebb5f9a9bbe1b801460d97d5}{%
+           family={Zhaosupb/Sup},
+           familyi={Z\bibinitperiod},
+           given={Jianmei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{fullhash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{bibnamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authorbibnamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authornamehash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \strng{authorfullhash}{2f7e6ad1f6d027dae4407df6a137f58b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Policy Reform}
+      \field{number}{4}
+      \field{title}{Intergovernmental fiscal transfers and local tax efforts: evidence from provinces in China}
+      \field{volume}{14}
+      \field{year}{2011}
+      \field{pages}{p.295\bibrangedash 300}
+      \range{pages}{-1}
+    \endentry
+    \entry{1996Revenue1}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=842c0584f340ca24a77b421d3e8a1cd7}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Huaping},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e3b72a7c93be31aaf82b08655f01aa9}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{fullhash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{bibnamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authorbibnamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authornamehash}{108c070ee20c85bb9169a20e51cdb97b}
+      \strng{authorfullhash}{108c070ee20c85bb9169a20e51cdb97b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Public Budgeting Accounting and Financial Management}
+      \field{number}{1}
+      \field{title}{Revenue Effort of Local Governments: Determinants, Impacts, and Policy Implications}
+      \field{volume}{8}
+      \field{year}{1996}
+      \field{pages}{47\bibrangedash 68}
+      \range{pages}{22}
+    \endentry
+    \entry{lv2008taxeffort}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1917a45b224cb249db154916169f981e}{%
+           family={Lv},
+           familyi={L\bibinitperiod},
+           given={Bingyang},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27255a181b401abe652d32ec1fd680b1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Kaiqiang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{fullhash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{bibnamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authorbibnamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authornamehash}{32d86fa57f68117eb7707c71c911441a}
+      \strng{authorfullhash}{32d86fa57f68117eb7707c71c911441a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Economy}
+      \field{number}{7}
+      \field{title}{Fiscal Transfers and Tax Efforts: The Impact of Government Preferences}
+      \field{year}{2018}
+      \field{pages}{24}
+      \range{pages}{1}
+    \endentry
+    \entry{1968How}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5274b797bc1ede66871f40d90cf36490}{%
+           family={Martinson},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{fullhash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{bibnamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authorbibnamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authornamehash}{5274b797bc1ede66871f40d90cf36490}
+      \strng{authorfullhash}{5274b797bc1ede66871f40d90cf36490}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Dental Management}
+      \field{number}{2}
+      \field{title}{How to handle that tax estimate}
+      \field{volume}{8}
+      \field{year}{1968}
+      \field{pages}{45}
+      \range{pages}{1}
+    \endentry
+    \entry{mogues2012external}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=85178de5c8553b05da88de5b5dfff58e}{%
+           family={Mogues},
+           familyi={M\bibinitperiod},
+           given={Tewodaj},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ccf5e94213c660d6bd1936a75293f2f0}{%
+           family={Benin},
+           familyi={B\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{fullhash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{bibnamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authorbibnamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authornamehash}{07e1b3cb18540225fcc173f9262e37bc}
+      \strng{authorfullhash}{07e1b3cb18540225fcc173f9262e37bc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Development}
+      \field{number}{5}
+      \field{title}{Do external grants to district governments discourage own revenue generation? A look at local public finance dynamics in Ghana}
+      \field{volume}{40}
+      \field{year}{2012}
+      \field{pages}{1054\bibrangedash 1067}
+      \range{pages}{14}
+    \endentry
+    \entry{nicholson2004goal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81515a969f5b82dbdb29fa0355ceec39}{%
+           family={Nicholson-Crotty},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{fullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{bibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorbibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authornamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorfullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Political Science}
+      \field{number}{1}
+      \field{title}{Goal conflict and fund diversion in federal grants to the states}
+      \field{volume}{48}
+      \field{year}{2004}
+      \field{pages}{110\bibrangedash 122}
+      \range{pages}{13}
+    \endentry
+    \entry{nicholson2008fiscal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=81515a969f5b82dbdb29fa0355ceec39}{%
+           family={Nicholson-Crotty},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{fullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{bibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorbibnamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authornamehash}{81515a969f5b82dbdb29fa0355ceec39}
+      \strng{authorfullhash}{81515a969f5b82dbdb29fa0355ceec39}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{State Politics \& Policy Quarterly}
+      \field{number}{2}
+      \field{title}{Fiscal federalism and tax effort in the US states}
+      \field{volume}{8}
+      \field{year}{2008}
+      \field{pages}{109\bibrangedash 126}
+      \range{pages}{18}
+    \endentry
+    \entry{panda2009central}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b69fc70240ef3cdcda3466a707e4925}{%
+           family={Panda},
+           familyi={P\bibinitperiod},
+           given={Prasant\bibnamedelima Kumar},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage India: New Delhi, India}%
+      }
+      \strng{namehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{fullhash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{bibnamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authorbibnamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authornamehash}{6b69fc70240ef3cdcda3466a707e4925}
+      \strng{authorfullhash}{6b69fc70240ef3cdcda3466a707e4925}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Margin: The Journal of Applied Economic Research}
+      \field{number}{3}
+      \field{title}{Central fiscal transfers and states’ own-revenue efforts in India: panel data models}
+      \field{volume}{3}
+      \field{year}{2009}
+      \field{pages}{223\bibrangedash 242}
+      \range{pages}{20}
+    \endentry
+    \entry{peterson1997decentralization}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ec631271c0ba21f6262fd8aeeb3409ee}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima E},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {World Bank Publications}%
+      }
+      \strng{namehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{fullhash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{bibnamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authorbibnamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authornamehash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \strng{authorfullhash}{ec631271c0ba21f6262fd8aeeb3409ee}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Decentralization in Latin America: learning through experience}
+      \field{year}{1997}
+    \endentry
+    \entry{201703}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b9a75fca0722a2f3113a5f39d9e3e20}{%
+           family={Piancastelli},
+           familyi={P\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{fullhash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{bibnamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authorbibnamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authornamehash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \strng{authorfullhash}{6b9a75fca0722a2f3113a5f39d9e3e20}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{03 measuring the tax effort of developed and developing countries. cross country - panel data analysis -1985/95}
+      \field{year}{2017}
+    \endentry
+    \entry{1981Taxation}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=af6dd0f359dd409c105be07104ce3746}{%
+           family={Tanzi},
+           familyi={T\bibinitperiod},
+           given={Mr.\bibnamedelimi Vito},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d42a4f25c1a529fd0a59d82ce58fe1a4}{%
+           family={Yücelik},
+           familyi={Y\bibinitperiod},
+           given={M.\bibnamedelimi Zühtü},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2d598c6e85b3212f20e76cedc32572cf}{%
+           family={Griffith},
+           familyi={G\bibinitperiod},
+           given={Mr.\bibnamedelimi Peter\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1a9218f8b24a5518d2fe2bb0d1edb4}{%
+           family={Aguirre},
+           familyi={A\bibinitperiod},
+           given={Mr.\bibnamedelimi Carlos\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f2f019de1e1fe41e06f27959b3a5e70}
+      \strng{fullhash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{bibnamehash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{authorbibnamehash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \strng{authornamehash}{0f2f019de1e1fe41e06f27959b3a5e70}
+      \strng{authorfullhash}{90e72e7902485eca7e5e8d3d1df17aa0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IMF Occasional Papers}
+      \field{title}{Taxation in Sub-Saharan Africa}
+      \field{year}{1981}
+    \endentry
+    \entry{2010MEASURING}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4053d084c6dae52a752cb38082bc43f0}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Chrystol},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ba55130f41c37b18fbfb6da18aee9a1}{%
+           family={Maynard},
+           familyi={M\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{fullhash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{bibnamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authorbibnamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authornamehash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \strng{authorfullhash}{ddc4a6455dc3217643f9df33b12a71b3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MEASURING TAX EFFORT FOR A SMALL OPEN ECONOMY: THE CASE OF BARBADOS}
+      \field{year}{2010}
+    \endentry
+    \entry{W2007Measuring}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=61e9c06ea9a85a5088a499df6458d276}{%
+           family={W.},
+           familyi={W\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9ece18c950afbfa6b0fdbfa4ff731d3}{%
+           family={T.},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f651f8b3a6684a8e7aa620edeaaf2548}{%
+           family={Newlyn},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{08f1e32de4c8bcd7d0a73482da915054}
+      \strng{fullhash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{bibnamehash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{authorbibnamehash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \strng{authornamehash}{08f1e32de4c8bcd7d0a73482da915054}
+      \strng{authorfullhash}{7a59d16c8d67f7c3820aba2e4e2f176e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Development Studies}
+      \field{title}{Measuring tax effort in developing countries}
+      \field{year}{2007}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

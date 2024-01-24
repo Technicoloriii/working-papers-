@@ -1,0 +1,25 @@
+ Abbrevation: Agriculture, forestry, fishing, and hunting (AGR)
+	      Wholesale trade and Retail trade(Trade)
+	      Transportation and warehousing(TandW)
+	      Finance and insurance(FandI)
+	      Real estate and rental and leasing(RE)
+	      Professional, scientific, technical and educational services(PSTE)
+	      Health care and social assistance(HS)
+	      State tax reveune(STR)
+	      state personal income(SPI)
+	      person income expenditure per capita(PIEPC)
+	      Mining(MIN)
+	      Manufacturing(MAN)
+	      Information(INF)
+	      str " State tax reveune"
+ 	      gdp "GDP"
+	      spi "state personal income"
+	      piepc "person income expenditure per capita"
+	      stategovernorparty "State governor partisan"
+	      mehi "Median household income"
+	      granttotaloutlay "Grants from feedral government"
+	      GDP(GDP)
+
+Unit: 	      PIEPC:DOLLARS
+	      Others:Millions of Dollars
+	 
